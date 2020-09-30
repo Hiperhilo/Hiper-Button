@@ -1,0 +1,4 @@
+HiperButton	KEYWORD1
+UpdateState	KEYWORD2
+IsPress		KEYWORD2
+IsClick		KEYWORD2
